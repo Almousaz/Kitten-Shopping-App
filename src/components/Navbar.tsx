@@ -16,7 +16,8 @@ const Navbar = () => {
                 About
             </Nav.Link>
         </Nav>
-        
+        <p className="m-2">Hi Dear</p>
+        {/* shopping cart button */}
         <Button
             style={{ width: "3rem", height: "3rem", position: "relative" }}
             variant="outline-primary"

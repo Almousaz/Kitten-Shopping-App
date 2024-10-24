@@ -1,0 +1,27 @@
+
+[
+    {
+      "id": 1,
+      "name": "Creamsicle",
+      "price": 10.99,
+      "imgUrl": "/images/alexander.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Multipack",
+      "price": 1199,
+      "imgUrl": "/images/amber.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stylish Model",
+      "price": 14000,
+      "imgUrl": "/images/manja.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Extra Smol",
+      "price": 1.05,
+      "imgUrl": "/images/uriel.jpg"
+    }
+  ]
